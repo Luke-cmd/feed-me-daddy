@@ -1,0 +1,8 @@
+{
+  "name": "FeedMeDaddy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "96552c58"
+}
